@@ -14,4 +14,5 @@ hands-down, [wiki.js](http://js.wiki) is the best wiki software.
 their docs reccomend 1gb of ram, but replit only gives 500mb for free. a great solution is heroku, but if i want to deploy multiple instances, that makes heroku abuse harder :/. replit allows unlimited repls, so this script can run wiki.js on mysql local storage  
 
 # warning
-replit sometimes removes files that are changed too much, so i suggest backing up to github, s3, sftp, or another. dont blame me for data loss!
+replit sometimes removes files that are changed too much, so i suggest backing up to github, s3, sftp, or another. dont blame me for data loss!  
+i've also noticed, since you have less resources, replit is a little slower for rendering and page loads.
