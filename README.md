@@ -18,3 +18,4 @@ replit sometimes removes files that are changed too much, so i suggest backing u
 i've also noticed, since you have less resources, replit is a little slower for rendering and page loads.  
 
 ## maybe ill put a wiki.js instance for this later, who knows
+[also cool theme](https://github.com/neumatic-org/wiki.js-dark-css)
